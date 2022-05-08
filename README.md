@@ -15,4 +15,7 @@ exports['SllimProgressbar']:showBar("Text", Time)
 exports['SllimProgressbar']:showBar("Repairing car", 6000)
 Citizen.Wait(6000)
 
+exports['SllimProgressbar']:showBar("Repairing car", 25000)
+Citizen.Wait(25000)
+
 ```
