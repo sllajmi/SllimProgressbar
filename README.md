@@ -1,6 +1,8 @@
 # SllimProgressbar
 Simple Progressbar system for fivem
 
+Preview: https://streamable.com/qo6xse
+
 # Client side
 
 ```lua
